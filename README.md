@@ -16,5 +16,5 @@ Micro USB breakout: https://www.amazon.co.uk/WayinTop-Pinboard-Breakout-Converte
 Wire up the servo power pins to the USB +5/GND volts as well as the ground of the C-Back driver. Wire up the signal pins from the M5Stick through the board to the servos.                             
 
 **Software:**          
-Servo velocity control: https://wired.chillibasket.com/2020/05/servo-trajectory/              
+Servo velocity control (already included): https://wired.chillibasket.com/2020/05/servo-trajectory/              
 This project.               
