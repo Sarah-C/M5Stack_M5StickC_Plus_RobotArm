@@ -1,7 +1,8 @@
 # M5Stack_M5StickC_Plus_RobotArm
 This is a step-by-step, 4 axis, velocity controlled robot arm controller using the Arduino IDE and an M5Stack M5StickC Plus.
 
-It plays back a sequence of arm positions in a loop, smoothly accelerating and decelerating to prevent the robot arm jerking.
+It plays back a sequence of arm positions in a loop, smoothly accelerating and decelerating to prevent the robot arm jerking.                 
+YouTube video : https://www.youtube.com/watch?v=A6L-htjksoE
 
 ![image](https://user-images.githubusercontent.com/1586332/147946409-bb8a676f-3fe4-45bf-9403-eece96cdca8b.png)
 
